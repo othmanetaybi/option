@@ -1,0 +1,5 @@
+C:\Users\othmane taybi\source\repos\Option\Option\obj\Debug\netcoreapp3.1\Option.csproj.AssemblyReference.cache
+C:\Users\othmane taybi\source\repos\Option\Option\obj\Debug\netcoreapp3.1\Option.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othmane taybi\source\repos\Option\Option\obj\Debug\netcoreapp3.1\Option.AssemblyInfoInputs.cache
+C:\Users\othmane taybi\source\repos\Option\Option\obj\Debug\netcoreapp3.1\Option.AssemblyInfo.cs
+C:\Users\othmane taybi\source\repos\Option\Option\obj\Debug\netcoreapp3.1\Option.csproj.CoreCompileInputs.cache
